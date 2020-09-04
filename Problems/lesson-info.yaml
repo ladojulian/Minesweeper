@@ -1,0 +1,125 @@
+content:
+- Return empty string when argument is null
+- Avoid NPE
+- Only true or false
+- Safe converting
+- Pastry packing optimization
+- Creating list
+- Output the list's elements
+- Find the nearest number
+- Concat positive numbers
+- Boxes
+- Boxes are not just objects!
+- Squares list
+- Blacklist
+- Working with queue
+- Creating queue
+- Html Parser
+- Getting the max element of a stack
+- Hello!
+- Fill the declaration
+- Invalid declaration of variables
+- Does an array contain N?
+- Check if an array contains two numbers
+- Two numbers never occur next to each other
+- The sum of array elements
+- The maximum product of adjacent elements
+- Alphabetical order
+- Triples
+- Swap the columns
+- Check sudoku
+- Rotate a rectange array
+- Cinema
+- Spiral
+- Sum of neighbors
+- Pretty looking pattern
+- Uncomment a line
+- Guest list of a hotel
+- Hiring a chef
+- Fix the program
+- Tens digit
+- Snail
+- Difference of times
+- Is between
+- Exactly one parameter is positive
+- Boys in a sport class
+- Groundhogs at a party
+- Comparing strings ignoring whitespaces
+- Check prefix ignoring the case
+- Create an euphonious word
+- Check a number is positive
+- Triangle
+- Squares of natural numbers
+- Queens
+- Collatz conjecture
+- Interval
+- Symmetrical number
+- Direction
+- Leap year
+- Shape
+- Healthy sleep
+- Profit
+- A simple calculator
+- Chocolate
+- The smallest value
+- Even or odd
+- The sequence
+- Grades
+- The army of units
+- The length of the sequence
+- Floor-space of the room
+- The integer barrier
+- Arithmetic average
+- The sequence (1)
+- Bus tour
+- The product of numbers from a to b
+- The sum of elements
+- Test learners
+- Numbers divisible by six
+- The largest element of a sequence
+- From string to a number
+- Harry Potter
+- Sum of numbers in the range
+- Overloading methods
+- Adding values
+- Number of decompositions
+- Parameters and their values
+- Calculating factorials
+- Basic calculator
+- Advanced calculator
+- Book
+- Book (1)
+- Too many cats
+- Robot control
+- Employee
+- Currencies
+- Balance management
+- Find mistake
+- Account Service
+- Employees
+- Users and WebSites
+- The secret enumeration
+- Compact strings with AsciiCharSequence
+- Converting and multiplying
+- Publication and its subclasses
+- Pick your team
+- Static factory methods for Time
+- Stock Broker
+- Robot Builder
+- Breakfast Decorator
+- Laptop factory
+- Cinema Facade
+- A new rockstar game
+- Template Method
+- Burger store
+- Undo command
+- Geek Builder
+- Phone factory
+- Fix me
+- Robot
+- Remote Controller
+- Forex Broker
+- Which brackets are balanced
+- Greedy load balance
+- Even numbers go first
+- The LIFO principle in action
